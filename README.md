@@ -36,8 +36,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ReemaRafi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReemaRafi&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReemaRafi&layout=compact&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=reemarafi&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReemaRafi&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/reema-rafi-29b4ab31b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ReemaRafi" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/ReemaRafi" target="_blank"><img src="https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
